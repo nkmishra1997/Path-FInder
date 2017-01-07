@@ -14,5 +14,4 @@ A set of test images, each containing
 
 # Example:
 
-Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
-![Alt text](Capture1.png?raw=true "Optional Title")
+![capture1](https://cloud.githubusercontent.com/assets/14962324/21743385/128b4e52-d527-11e6-9d83-7582c27686f2.PNG)
